@@ -1,0 +1,5 @@
+# Disabling feature when websites can steal browser hotkeys like Ctrl+K
+Credits: https://www.benjamin-schieder.de/blog/2022/02/07/forbid-websites-from-stealing-your-keyboard-shortcuts.html
+    Go to about:config
+    Search for permissions.defaults.shortcuts
+    Set it to 2
